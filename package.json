@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "masterPortfolio",
-  "homepage": "https://dantusaikamal.github.io",
+  "name": "resumm",
+  "homepage": "https://k-naman.github.io",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
